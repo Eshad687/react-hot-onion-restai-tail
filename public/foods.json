@@ -1,0 +1,146 @@
+[
+    {
+        "id": "breakfast1",
+        "name": "Bagel and Cream Cheese",
+        "category": "breakfast",
+        "price": 6.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/DtbzjcB/breakfast1.png"
+    },
+    {
+        "id": "breakfast2",
+        "name": "Breakfast Sandwitch",
+        "category": "breakfast",
+        "price": 9.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/vZJS3Ld/breakfast2.png"
+    },
+    {
+        "id": "breakfast3",
+        "name": "baked Chicken",
+        "category": "breakfast",
+        "price": 10.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/s6mvNXJ/breakfast3.png"
+    },
+    {
+        "id": "breakfast4",
+        "name": "Eggs Benedict",
+        "category": "breakfast",
+        "price": 8.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/1dp7tq1/breakfast4.png"
+    },
+    {
+        "id": "breakfast5",
+        "name": "Toast Crossaint Fried Egg",
+        "category": "breakfast",
+        "price": 19.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/BzwZGC2/breakfast5.png"
+    },
+    {
+        "id": "breakfast6",
+        "name": "Full Breakfast Fried Egg Toast Brunch ",
+        "category": "breakfast",
+        "price": 3.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/F4g4r9V/breakfast6.png"
+    },
+    {
+        "id": "lunch1",
+        "name": "Healthy Meal Plan",
+        "category": "lunch",
+        "price": 23.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/3F9Lt0k/lunch1.png"
+    },
+    {
+        "id": "lunch2",
+        "name": "Fried Chicken Bento",
+        "category": "lunch",
+        "price": 9.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/9gqj30K/lunch2.png"
+    },
+    {
+        "id": "lunch3",
+        "name": "Tarragon Rubbed Salmon",
+        "category": "lunch",
+        "price": 6.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/ctcKQKC/lunch3.png"
+    },
+    {
+        "id": "lunch4",
+        "name": "Indian Lunch",
+        "category": "lunch",
+        "price": 8.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/WKZcxPv/lunch4.png"
+    },
+    {
+        "id": "lunch5",
+        "name": "Beef Steak",
+        "category": "lunch",
+        "price": 15.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/WFR1YMJ/lunch5.png"
+    },
+    {
+        "id": "lunch6",
+        "name": "Honey Soy Gazed Salmon with Peppers",
+        "category": "lunch",
+        "price": 7.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/7kqprTZ/lunch6.png"
+    },
+    {
+        "id": "dinner1",
+        "name": "Salmon with GrapeFruit and Lenbil Salad",
+        "category": "dinner",
+        "price": 9.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/KNKXkk1/dinner1.png"
+    },
+    {
+        "id": "dinner2",
+        "name": "Lemony Salmon Piccata",
+        "category": "dinner",
+        "price": 10.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/rpfQw47/dinner2.png"
+    },
+    {
+        "id": "dinner3",
+        "name": "Pork Tenderin with Quinoa Plaf",
+        "category": "dinner",
+        "price": 12.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/4YMpxbY/dinner3.png"
+    },
+    {
+        "id": "dinner4",
+        "name": "French Fries with Cheese",
+        "category": "dinner",
+        "price": 8.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/Rp2SXkK/dinner4.png"
+    },
+    {
+        "id": "dinner5",
+        "name": "Garlic Butter Baked Salmon",
+        "category": "dinner",
+        "price": 6.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/brHFVs2/dinner5.png"
+    },
+    {
+        "id": "dinner6",
+        "name": "Baked Chicken",
+        "category": "dinner",
+        "price": 9.99,
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis, nostrum eos? Iusto minima molestias excepturi vitae! Impedit accusamus, voluptatum corrupti sed optio quidem culpa quasi vitae ullam voluptates commodi quaerat?",
+        "img": "https://i.ibb.co/fHv7Yym/dinner6.png"
+    }
+]
